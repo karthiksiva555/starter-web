@@ -14,3 +14,7 @@ Sample website with plenty of files for demos
 
 this is a sample deployment - in working directory
 
+##Copyright 
+
+All the copy rights goes to Siva Karthik.
+
