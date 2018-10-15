@@ -19,3 +19,5 @@ this is a sample deployment - in working directory
 All the copy rights goes to Siva Karthik.
 
 ##How to contribute
+
+For rebasing example
